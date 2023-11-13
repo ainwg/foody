@@ -1,0 +1,26 @@
+body {
+    background-image: url(Background.png);
+    background-position: center;
+    background-repeat: repeat-y;
+    background-size: cover;
+
+}
+
+#mybox {
+    background-color: rgba(255, 255, 255, 1);
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+    opacity: 1;
+}
+
+#mybutton {
+    background-color: rgba(255, 255, 255, 1);
+    color: black;
+    border: 1px solid black;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 10px 20px;
+    width: 150px;
+    border-radius: 10px;
+    opacity: 1;
